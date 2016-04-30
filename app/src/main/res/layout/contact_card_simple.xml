@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                    android:background="#eeeeee"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+    android:layout_marginTop="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/contact_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/icon_contact_small"
+            android:scaleType="fitCenter"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="8dp"/>
+        
+        <TextView
+            android:id="@+id/contact_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textSize="16sp"
+            android:layout_toRightOf="@id/contact_image"/>
+
+        <TextView
+            android:id="@+id/contact_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textSize="14sp"
+            android:layout_below="@id/contact_name"
+            android:layout_toRightOf="@id/contact_image"/>
+
+        <TextView
+            android:id="@+id/contact_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:textSize="14sp"
+            android:layout_below="@id/contact_number"
+            android:layout_toRightOf="@id/contact_image"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
