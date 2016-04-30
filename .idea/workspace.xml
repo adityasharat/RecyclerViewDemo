@@ -61,30 +61,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleContactsViewAdapter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimpleContactsViewAdapter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/flipkart/recyclerviewdemo/adapters/SimpleContactsViewAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.57583547">
+              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#625#626#0" expanded="true" />
                 <element signature="e#665#666#0" expanded="true" />
-                <element signature="method#onBindViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#977#978#0" expanded="true" />
+                <element signature="method#onCreateViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
+                <element signature="e#1648#1649#0" expanded="true" />
+                <element signature="e#1686#1687#0" expanded="true" />
                 <element signature="class#ContactViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
-                <element signature="e#1106#1107#0" expanded="true" />
-                <element signature="e#1145#1146#0" expanded="true" />
+                <element signature="e#1814#1815#0" expanded="true" />
+                <element signature="e#1853#1854#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_card_simple.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact_card_simple.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/contact_card_simple.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.13204226">
+            <state vertical-scroll-proportion="-1.5576923">
               <caret line="11" column="18" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
@@ -2104,14 +2104,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19602978" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19602978" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.455335" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2201,33 +2201,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/flipkart/recyclerviewdemo/adapters/SimpleContactsViewAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="method#onBindViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="class#ContactViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/contact_card_simple.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.13204226">
+        <state vertical-scroll-proportion="-1.5576923">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/flipkart/recyclerviewdemo/adapters/SimpleContactsViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57583547">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="method#onCreateViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="class#ContactViewHolder#0;class#SimpleContactsViewAdapter#0" expanded="true" />
+            <element signature="e#1814#1815#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

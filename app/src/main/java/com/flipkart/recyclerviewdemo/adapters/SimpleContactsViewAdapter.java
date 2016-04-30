@@ -26,20 +26,28 @@ public class SimpleContactsViewAdapter extends RecyclerView.Adapter<SimpleContac
 
     @Override
     public ContactViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View view =
-        return null;
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.contact_card_simple, parent, false);
+        return new ContactViewHolder(view);
     }
 
     @Override
     public void onBindViewHolder(ContactViewHolder holder, int position) {
+        TextView textViewContactName = (TextView) holder.itemView.findViewById(R.id.contact_name);
+        TextView textViewContactNumber = (TextView) holder.itemView.findViewById(R.id.contact_number);
+        TextView textViewContactEmail = (TextView) holder.itemView.findViewById(R.id.contact_email);
 
+        Contact contact = contacts.get(position);
+        if (textViewContactName != null) {
+            textViewContactName.setText(contact.name);
+            textViewContactNumber.setText(contact.number);
+            textViewContactEmail.setText(contact.email);
+        }
     }
 
     @Override
     public int getItemCount() {
-        return 0;
+        return contacts.size();
     }
-
 
     public static class ContactViewHolder extends RecyclerView.ViewHolder {
 
